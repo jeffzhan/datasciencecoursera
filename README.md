@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for the first project of JHU's Data Science in R course
+Repo for my first project in JHU's Data Science in R course
